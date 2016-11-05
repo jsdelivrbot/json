@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Field1": "Hubbard St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62884140014648,
+          41.88988263435968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Field1": "Hubbard St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62480735778809,
+          41.89020210802678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Field1": "Clark St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63047218322754,
+          41.88624052162647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Field1": "Michigan Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62489318847656,
+          41.886496115259334
+        ]
+      }
+    }
+  ]
+}
