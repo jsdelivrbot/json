@@ -27,7 +27,7 @@ var CartoDB_DarkMatter = L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_all/
 		
 		
 //access geojson for heat using jQuery method getJSON
-$.getJSON("https://cdn.rawgit.com/mddown/json/master/data.geojson", function(data) {
+$.getJSON("https://cdn.jsdelivr.net/gh/mddown/json/data.geojson", function(data) {
 	var jsonData = L.geoJson(data, {
 	//style: style,
 	//onEachFeature: onEachFeature
